@@ -11,16 +11,16 @@ Exam00: 64%; Exam01: 80%; Exam02: 100%; Exam03: 90%
 [Shell01](https://github.com/diogo-crcoelho/Piscine/tree/master/Shell01)->85%  
 
 `` C ``  
-[C00](https://github.com/diogo-crcoelho/Piscine/tree/master/C00)->100%  
-[C01](https://github.com/diogo-crcoelho/Piscine/tree/master/C01)->100%  
-[C02](https://github.com/diogo-crcoelho/Piscine/tree/master/C02)->85%  
-[C03](https://github.com/diogo-crcoelho/Piscine/tree/master/C03)->100%  
-[C04](https://github.com/diogo-crcoelho/Piscine/tree/master/C04)->85%  
-[C05](https://github.com/diogo-crcoelho/Piscine/tree/master/C05)->80%  
-[C06](https://github.com/diogo-crcoelho/Piscine/tree/master/C06)->100%  
-[C07](https://github.com/diogo-crcoelho/Piscine/tree/master/C07)->60%  
-[C08](https://github.com/diogo-crcoelho/Piscine/tree/master/C08)->100%  
-[C09](https://github.com/diogo-crcoelho/Piscine/tree/master/C09)->100%  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C00&message=100%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C00)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C01&message=100%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C01)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C02&message=_85%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C02)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C03&message=100%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C03)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C04&message=" 85%"&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C04)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C05&message=_80%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C05)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C06&message=100%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C06)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C07&message=_60%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C07)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C08&message=100%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C08)  
+[![PISCINE C00](https://img.shields.io/static/v1?label=C09&message=100%&color=brightgreen)](https://github.com/diogo-crcoelho/Piscine/tree/master/C09)  
 
 `` Rush ``  
 [Rush00](https://github.com/diogo-crcoelho/Piscine/tree/master/Rush00)->125% 
